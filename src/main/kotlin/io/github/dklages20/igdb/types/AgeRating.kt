@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonValue
 import com.fasterxml.jackson.databind.PropertyNamingStrategies
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize
 import com.fasterxml.jackson.databind.annotation.JsonNaming
+import io.github.dklages20.igdb.types.deserializers.AgeRatingCategoryDeserializer
 import io.github.dklages20.igdb.types.deserializers.AgeRatingContentDescriptionDeserializer
 import io.github.dklages20.igdb.types.deserializers.AgeRatingContentDescriptionV2Deserializer
 import io.github.dklages20.igdb.types.deserializers.OrganizationDeserializer
@@ -13,14 +14,15 @@ import io.github.dklages20.igdb.types.deserializers.OrganizationDeserializer
 @JsonIgnoreProperties(ignoreUnknown = true)
 class AgeRating(
     id: Int,
-    val checksum: String,
+    val checksum: String?,
     val category: Category?,
     @JsonDeserialize(using = AgeRatingContentDescriptionDeserializer::class)
     val contentDescriptions: List<AgeRatingContentDescription> = listOf(),
     @JsonDeserialize(using = OrganizationDeserializer::class)
-    val organization: Organization?,
+    val organization: AgeRatingOrganization?,
     val rating: Rating?,
-    val ratingCategory: Int?,
+    @JsonDeserialize(using = AgeRatingCategoryDeserializer::class)
+    val ratingCategory: AgeRatingCategory?,
     @JsonDeserialize(using = AgeRatingContentDescriptionV2Deserializer::class)
     val ratingContentDescriptions: List<AgeRatingContentDescriptionV2> = listOf(),
     val ratingCoverUrl: String?,
@@ -42,6 +44,12 @@ class AgeRating(
 
         @JsonValue
         fun toValue(): Int = value
+
+        companion object {
+            fun fromValue(value: Int): Rating? {
+                return Rating.entries.find { it.value == value }
+            }
+        }
     }
 
     enum class Rating(val value: Int) {
@@ -87,5 +95,11 @@ class AgeRating(
 
         @JsonValue
         fun toValue(): Int = value
+
+        companion object {
+            fun fromValue(value: Int): Rating? {
+                return entries.find { it.value == value }
+            }
+        }
     }
 }

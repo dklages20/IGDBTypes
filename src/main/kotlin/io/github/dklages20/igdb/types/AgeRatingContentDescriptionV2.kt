@@ -15,7 +15,7 @@ class AgeRatingContentDescriptionV2(
     val updatedAt: Long?,
     val description: String?,
     @JsonDeserialize(using = OrganizationDeserializer::class)
-    val organization: Organization?,
+    val organization: AgeRatingOrganization?,
 ) : IGDBBaseObject(id) {
     override fun toString(): String {
         return "AgeRatingContentDescriptionV2(id=$id, checksum=$checksum, createdAt=$createdAt, updatedAt=$updatedAt, description=$description, organization=$organization)"

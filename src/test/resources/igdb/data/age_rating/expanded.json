@@ -1,0 +1,53 @@
+{
+  "id": 41302,
+  "category": 1,
+  "content_descriptions": [
+    {
+      "id": 44647,
+      "category": 1,
+      "description": "Alcohol Reference",
+      "checksum": "0f36e28d-9826-ca71-045e-0a405f2eb2ae"
+    },
+    {
+      "id": 44648,
+      "category": 47,
+      "description": "Mild Fantasy Violence",
+      "checksum": "a43dc73f-35ff-8150-949c-b4f564aeb2f4"
+    }
+  ],
+  "rating": 8,
+  "checksum": "494c694a-5a6d-be36-98f8-050e0dfa47f8",
+  "organization": {
+    "id": 1,
+    "name": "ESRB",
+    "created_at": 1737936000,
+    "updated_at": 1737936000,
+    "checksum": "550e8400-e29b-41d4-a716-446655440000"
+  },
+  "rating_category": {
+    "id": 8,
+    "rating": "E",
+    "organization": 1,
+    "created_at": 1737936000,
+    "updated_at": 1737936000,
+    "checksum": "550e8400-e29b-41d4-a716-446655440008"
+  },
+  "rating_content_descriptions": [
+    {
+      "id": 1,
+      "description": "Alcohol Reference",
+      "organization": 1,
+      "created_at": 1737936000,
+      "updated_at": 1737936000,
+      "checksum": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+      "id": 47,
+      "description": "Mild Fantasy Violence",
+      "organization": 1,
+      "created_at": 1737936000,
+      "updated_at": 1737936000,
+      "checksum": "550e8400-e29b-41d4-a716-446655440047"
+    }
+  ]
+}

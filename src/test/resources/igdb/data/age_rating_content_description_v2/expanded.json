@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "description": "Alcohol Reference",
+  "organization": {
+    "id": 1,
+    "name": "ESRB",
+    "created_at": 1737936000,
+    "updated_at": 1737936000,
+    "checksum": "550e8400-e29b-41d4-a716-446655440000"
+  },
+  "created_at": 1737936000,
+  "updated_at": 1737936000,
+  "checksum": "550e8400-e29b-41d4-a716-446655440001"
+}
