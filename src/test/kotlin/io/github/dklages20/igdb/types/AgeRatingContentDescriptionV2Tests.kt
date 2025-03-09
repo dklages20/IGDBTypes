@@ -1,31 +1,33 @@
 package io.github.dklages20.igdb.types
 
-import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import com.fasterxml.jackson.module.kotlin.readValue
-import org.junit.jupiter.api.assertDoesNotThrow
-import org.junit.jupiter.api.fail
-import org.junit.jupiter.params.ParameterizedTest
-import org.junit.jupiter.params.provider.ValueSource
-
+import io.github.dklages20.igdb.runBaseObjectTest
+import io.github.dklages20.igdb.runExpandedObjectTest
+import io.github.dklages20.igdb.runIdOnlyObjectTest
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Test
 
 class AgeRatingContentDescriptionV2Tests {
 
-    private val objectMapper = jacksonObjectMapper()
-
-    companion object {
-        const val RESOURCE_PATH = "/igdb/age-rating-content-descriptions-v2"
+    @Test
+    fun testIdOnly() {
+        val idOnlyData = runIdOnlyObjectTest(AgeRatingContentDescriptionV2::class)
+        assertEquals(1, idOnlyData.id)
     }
 
-    @ParameterizedTest
-    @ValueSource(strings = ["full.json", "partial.json"])
-    fun testDeserialization(file: String) {
-        val jsonContent = object {}.javaClass.getResourceAsStream("${RESOURCE_PATH}/$file")
-            ?.bufferedReader()
-            ?.use { it.readText() }
-            ?: fail("Failed to read JSON from $file")
-
-        assertDoesNotThrow {
-            objectMapper.readValue<AgeRatingContentDescriptionV2>(jsonContent)
-        }
+    @Test
+    fun testBase() {
+        val baseData = runBaseObjectTest(AgeRatingContentDescriptionV2::class)
+        assertEquals(1, baseData.id)
+        assertEquals("Alcohol Reference", baseData.description)
+        assertEquals("550e8400-e29b-41d4-a716-446655440001", baseData.checksum)
+        assertEquals(1737936000, baseData.createdAt)
+        assertEquals(1737936000, baseData.updatedAt)
+        assertEquals(1, baseData.organization?.id)
     }
+
+    @Test
+    fun testExpanded() {
+        runExpandedObjectTest(AgeRatingContentDescriptionV2::class)
+    }
+
 }
