@@ -10,7 +10,7 @@ class AgeRatingContentDescriptionTests {
     @Test
     fun testIdOnly() {
         val idOnlyData = runIdOnlyObjectTest(AgeRatingContentDescription::class)
-        assertEquals(idOnlyData.id, 1)
+        assertEquals(idOnlyData.id, 47)
     }
 
     @Test
