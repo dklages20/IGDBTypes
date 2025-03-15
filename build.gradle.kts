@@ -3,6 +3,7 @@ import com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar
 plugins {
     id("org.jetbrains.kotlin.jvm") version "2.0.20"
     id("com.gradleup.shadow") version "9.0.0-beta9"
+    id("net.thauvin.erik.gradle.semver") version "1.0.4"
     `java-library`
 }
 
