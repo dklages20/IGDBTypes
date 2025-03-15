@@ -30,3 +30,30 @@ import io.github.dklages20.igdb.types.AgeRating
 val objectMapper = ObjectMapper()
 val ageRating = objectMapper.readValue(jsonString, AgeRating::class.java)
 ```
+
+## Publishing
+
+### Manually Publishing
+
+In order to manually publish this repository to GitHub Packages, you have two options.
+
+#### Environment Variables
+
+You should set the following environment variables:
+
+- `GITHUB_USERNAME`: Your GitHub username.
+- `GITHUB_TOKEN`: Your GitHub personal access token with the `write:packages` scope.
+
+Then, you can run the following command:
+
+```bash
+./gradlew publish
+```
+
+#### Gradle Properties
+
+Alternatively, you can pass the `githubUsername` and `githubPassword` properties to Gradle using the `-P` flag:
+
+```bash
+./gradlew publish -PgithubUsername=<your_github_username> -PgithubToken=<your_github_token>
+```
