@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.databind.deser.std.StdDeserializer
 import io.github.dklages20.igdb.types.AgeRatingOrganization
 
-class OrganizationDeserializer : StdDeserializer<AgeRatingOrganization>(List::class.java) {
+class AgeRatingOrganizationDeserializer : StdDeserializer<AgeRatingOrganization>(List::class.java) {
     override fun deserialize(p: JsonParser, ctxt: DeserializationContext?): AgeRatingOrganization {
         val node = p.codec.readTree<JsonNode>(p)
         return when {

@@ -16,3 +16,18 @@ class AgeRatingCategoryDeserializer : StdDeserializer<AgeRatingCategory>(List::c
         }
     }
 }
+
+class AgeRatingCategoryListDeserializer : StdDeserializer<List<AgeRatingCategory>>(List::class.java) {
+    companion object {
+        private val ageRatingCategoryDeserializer = AgeRatingCategoryDeserializer()
+    }
+
+    override fun deserialize(p: JsonParser, ctxt: DeserializationContext?): List<AgeRatingCategory> {
+        val node = p.codec.readTree<JsonNode>(p)
+        return if (node.isArray) {
+            node.mapNotNull { ageRatingCategoryDeserializer.deserialize(p.codec.treeAsTokens(it), ctxt) }
+        } else {
+            emptyList()
+        }
+    }
+}

@@ -32,6 +32,16 @@ val objectMapper = ObjectMapper()
 val ageRating = objectMapper.readValue(jsonString, AgeRating::class.java)
 ```
 
+## How do I add a new type?
+
+Typically, when adding a new type, you'll need to add the following classes:
+
+- The type itself, e.g. `AgeRating`
+- A deserializer that can be used to deserialize a single instance of the type, e.g. `AgeRatingDeserializer`
+- A deserializer that can be used to deserialize a list of instances of the type, e.g. `AgeRatingListDeserializer`
+
+If the type is simple enough, you might not need to add the deserializers. However, if the type is complex, please make sure you add a deserializer for both a single and list of objects.
+
 ## Publishing
 
 ### Manually Publishing

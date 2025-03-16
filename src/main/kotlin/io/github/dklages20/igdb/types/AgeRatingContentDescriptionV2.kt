@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.databind.PropertyNamingStrategies
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize
 import com.fasterxml.jackson.databind.annotation.JsonNaming
-import io.github.dklages20.igdb.types.deserializers.OrganizationDeserializer
+import io.github.dklages20.igdb.types.deserializers.AgeRatingOrganizationDeserializer
 
 @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy::class)
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -14,7 +14,7 @@ class AgeRatingContentDescriptionV2(
     val createdAt: Long?,
     val updatedAt: Long?,
     val description: String?,
-    @JsonDeserialize(using = OrganizationDeserializer::class)
+    @JsonDeserialize(using = AgeRatingOrganizationDeserializer::class)
     val organization: AgeRatingOrganization?,
 ) : IGDBBaseObject(id) {
     override fun toString(): String {

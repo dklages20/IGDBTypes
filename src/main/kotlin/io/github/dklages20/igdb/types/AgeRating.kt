@@ -5,10 +5,7 @@ import com.fasterxml.jackson.annotation.JsonValue
 import com.fasterxml.jackson.databind.PropertyNamingStrategies
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize
 import com.fasterxml.jackson.databind.annotation.JsonNaming
-import io.github.dklages20.igdb.types.deserializers.AgeRatingCategoryDeserializer
-import io.github.dklages20.igdb.types.deserializers.AgeRatingContentDescriptionDeserializer
-import io.github.dklages20.igdb.types.deserializers.AgeRatingContentDescriptionV2Deserializer
-import io.github.dklages20.igdb.types.deserializers.OrganizationDeserializer
+import io.github.dklages20.igdb.types.deserializers.*
 
 @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy::class)
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -16,14 +13,14 @@ class AgeRating(
     id: Int,
     val checksum: String?,
     val category: Category?,
-    @JsonDeserialize(using = AgeRatingContentDescriptionDeserializer::class)
+    @JsonDeserialize(using = AgeRatingContentDescriptionListDeserializer::class)
     val contentDescriptions: List<AgeRatingContentDescription> = listOf(),
-    @JsonDeserialize(using = OrganizationDeserializer::class)
+    @JsonDeserialize(using = AgeRatingOrganizationDeserializer::class)
     val organization: AgeRatingOrganization?,
     val rating: Rating?,
     @JsonDeserialize(using = AgeRatingCategoryDeserializer::class)
     val ratingCategory: AgeRatingCategory?,
-    @JsonDeserialize(using = AgeRatingContentDescriptionV2Deserializer::class)
+    @JsonDeserialize(using = AgeRatingContentDescriptionV2ListDeserializer::class)
     val ratingContentDescriptions: List<AgeRatingContentDescriptionV2> = listOf(),
     val ratingCoverUrl: String?,
     val synopsis: String?,
