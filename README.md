@@ -7,9 +7,10 @@ This library provides data types for the IGDB API, which is a video game databas
 The following types are currently supported:
 
 - [AgeRating](https://api-docs.igdb.com/#age-rating)
+- [AgeRatingCategory](https://api-docs.igdb.com/#age-rating-category)
 - [AgeRatingContentDescription](https://api-docs.igdb.com/#age-rating-content-description)
 - [AgeRatingContentDescriptionV2](https://api-docs.igdb.com/#age-rating-content-description-v2)
-- [Organization](https://api-docs.igdb.com/#organization)
+- [AgeRatingOrganization](https://api-docs.igdb.com/#age-rating-organization)
 
 ## How do I use this library?
 
