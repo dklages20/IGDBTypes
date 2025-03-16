@@ -7,9 +7,10 @@ This library provides data types for the IGDB API, which is a video game databas
 The following types are currently supported:
 
 - [AgeRating](https://api-docs.igdb.com/#age-rating)
+- [AgeRatingCategory](https://api-docs.igdb.com/#age-rating-category)
 - [AgeRatingContentDescription](https://api-docs.igdb.com/#age-rating-content-description)
 - [AgeRatingContentDescriptionV2](https://api-docs.igdb.com/#age-rating-content-description-v2)
-- [Organization](https://api-docs.igdb.com/#organization)
+- [AgeRatingOrganization](https://api-docs.igdb.com/#age-rating-organization)
 
 ## How do I use this library?
 
@@ -29,4 +30,31 @@ import io.github.dklages20.igdb.types.AgeRating
 
 val objectMapper = ObjectMapper()
 val ageRating = objectMapper.readValue(jsonString, AgeRating::class.java)
+```
+
+## Publishing
+
+### Manually Publishing
+
+In order to manually publish this repository to GitHub Packages, you have two options.
+
+#### Environment Variables
+
+You should set the following environment variables:
+
+- `GITHUB_USERNAME`: Your GitHub username.
+- `GITHUB_TOKEN`: Your GitHub personal access token with the `write:packages` scope.
+
+Then, you can run the following command:
+
+```bash
+./gradlew publish
+```
+
+#### Gradle Properties
+
+Alternatively, you can pass the `githubUsername` and `githubPassword` properties to Gradle using the `-P` flag:
+
+```bash
+./gradlew publish -PgithubUsername=<your_github_username> -PgithubToken=<your_github_token>
 ```
