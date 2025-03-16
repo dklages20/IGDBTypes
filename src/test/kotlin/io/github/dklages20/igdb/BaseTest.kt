@@ -21,6 +21,7 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     Artwork::class to "$IGDB_RESOURCE_BASE_PATH/artwork",
     CharacterGender::class to "$IGDB_RESOURCE_BASE_PATH/character_genders",
     CharacterMugshot::class to "$IGDB_RESOURCE_BASE_PATH/character_mugshots",
+    CharacterSpecie::class to "$IGDB_RESOURCE_BASE_PATH/character_species",
 )
 
 val objectMapper = jacksonObjectMapper()
