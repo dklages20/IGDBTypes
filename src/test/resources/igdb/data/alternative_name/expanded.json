@@ -1,0 +1,61 @@
+{
+  "id": 75586,
+  "comment": "Stylized title",
+  "game": {
+    "id": 175241,
+    "alternative_names": [
+      75586
+    ],
+    "category": 0,
+    "created_at": 1633512198,
+    "external_games": [
+      2124782,
+      2129670
+    ],
+    "first_release_date": 1463443200,
+    "genres": [
+      9
+    ],
+    "name": "Crossquare",
+    "platforms": [
+      39
+    ],
+    "release_dates": [
+      317230
+    ],
+    "screenshots": [
+      659099,
+      659100,
+      659101,
+      659102
+    ],
+    "similar_games": [
+      10603,
+      19222,
+      25905,
+      41349,
+      87507,
+      88511,
+      88863,
+      90788,
+      90839,
+      95776
+    ],
+    "slug": "crossquare",
+    "summary": "CROSSQUARE is a little mind-bending puzzle game about lines & space.Move a square to draw a line. Lines disappeared when they crossed. Complete each puzzle by clearing all squares.\nIt is an easy game mechanic, yet we found a lot of skills in wringing out level strings. Let's explore it.",
+    "tags": [
+      268435465
+    ],
+    "updated_at": 1691440887,
+    "url": "https://www.igdb.com/games/crossquare",
+    "websites": [
+      233042,
+      233043,
+      471994
+    ],
+    "checksum": "8f8636be-7736-0060-de9a-e15e6ef89ac8",
+    "game_type": 0
+  },
+  "name": "CROSSQUARE",
+  "checksum": "d3493ad4-302e-c5b8-30cc-bbaad30c69d6"
+}

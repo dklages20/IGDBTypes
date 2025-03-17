@@ -1,0 +1,17 @@
+{
+  "id": 8303,
+  "created_at": 1462962430,
+  "games": [
+    4195
+  ],
+  "gender": 0,
+  "mug_shot": 3688,
+  "name": "Raven",
+  "slug": "raven",
+  "species": 5,
+  "updated_at": 1483471464,
+  "url": "https://www.igdb.com/characters/raven",
+  "checksum": "aff6df00-ecbf-e915-f2b3-bb7d759d9f7f",
+  "character_gender": 0,
+  "character_species": 5
+}

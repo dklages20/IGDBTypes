@@ -1,0 +1,114 @@
+{
+  "id": 5305,
+  "game": {
+    "id": 2039,
+    "age_ratings": [
+      188120
+    ],
+    "alternative_names": [
+      4805
+    ],
+    "artworks": [
+      5305,
+      5306
+    ],
+    "category": 0,
+    "cover": 209485,
+    "created_at": 1368394253,
+    "dlcs": [
+      10976,
+      10975,
+      10977
+    ],
+    "external_games": [
+      192643,
+      1957677,
+      14029
+    ],
+    "first_release_date": 1286496000,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      12,
+      15
+    ],
+    "involved_companies": [
+      69508,
+      69507
+    ],
+    "keywords": [
+      105
+    ],
+    "name": "The Kings Crusade",
+    "platforms": [
+      3,
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 40.0,
+    "rating_count": 4,
+    "release_dates": [
+      190006,
+      4265
+    ],
+    "screenshots": [
+      2422,
+      2423,
+      2424,
+      39046,
+      39047
+    ],
+    "similar_games": [
+      55029,
+      6985,
+      10243,
+      9856,
+      19404,
+      107233,
+      31480,
+      79134,
+      18623,
+      30229
+    ],
+    "slug": "the-kings-crusade",
+    "summary": "The crowned heads of Europe launch a new military campaign to re-conquer the Holy Land. The time has come for you to assemble your armies and take back the land as Richard the Lionheart. Or assume the role of the great Saladin and defend your people against the oncoming invasion. Lionheart: King's Crusade gives you the chance to make the dreams of the past a reality.",
+    "tags": [
+      22,
+      268435467,
+      268435468,
+      268435471,
+      536871017
+    ],
+    "themes": [
+      22
+    ],
+    "total_rating": 40.0,
+    "total_rating_count": 4,
+    "updated_at": 1741925263,
+    "url": "https://www.igdb.com/games/the-kings-crusade",
+    "videos": [
+      1134
+    ],
+    "websites": [
+      66960,
+      172348,
+      414883,
+      17557
+    ],
+    "checksum": "771c043c-a707-2007-ab25-4d44fdaf46d4",
+    "language_supports": [
+      362921
+    ],
+    "game_type": 0
+  },
+  "height": 500,
+  "image_id": "t0ufrugxdrbce8giwhvo",
+  "url": "//images.igdb.com/igdb/image/upload/t_thumb/t0ufrugxdrbce8giwhvo.jpg",
+  "width": 800,
+  "checksum": "0dec6ec1-4e83-b93d-d44b-33761f81891f"
+}
