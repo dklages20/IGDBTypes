@@ -11,6 +11,12 @@ The following types are currently supported:
 - [AgeRatingContentDescription](https://api-docs.igdb.com/#age-rating-content-description)
 - [AgeRatingContentDescriptionV2](https://api-docs.igdb.com/#age-rating-content-description-v2)
 - [AgeRatingOrganization](https://api-docs.igdb.com/#age-rating-organization)
+- [AlternativeName](https://api-docs.igdb.com/#alternative-name)
+- [Artwork](https://api-docs.igdb.com/#artwork)
+- [Character](https://api-docs.igdb.com/#character)
+- [CharacterGender](https://api-docs.igdb.com/#character-gender)
+- [CharacterMugShot](https://api-docs.igdb.com/#character-mug-shot)
+- [CharacterSpecie](https://api-docs.igdb.com/#character-specie)
 
 ## How do I use this library?
 
