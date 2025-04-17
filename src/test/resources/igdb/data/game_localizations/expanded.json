@@ -1,0 +1,101 @@
+{
+  "id": 1292,
+  "name": "タイニーズズズ！",
+  "game": {
+    "id": 216293,
+    "alternative_names": [
+      100667
+    ],
+    "category": 0,
+    "cover": 251450,
+    "created_at": 1662781166,
+    "external_games": [
+      2565517
+    ],
+    "first_release_date": 1662768000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      32
+    ],
+    "involved_companies": [
+      186570,
+      186571
+    ],
+    "keywords": [
+      288,
+      1780,
+      34609
+    ],
+    "name": "Tinysss!",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      387658
+    ],
+    "screenshots": [
+      872895,
+      872896
+    ],
+    "similar_games": [
+      96217,
+      106987,
+      113360,
+      36198,
+      19404,
+      24426,
+      54775,
+      19164,
+      94772,
+      47823
+    ],
+    "slug": "tinysss",
+    "storyline": "A world where Dracula has returned after hundreds of years and monsters run rampant.\nThe battle to obtain the sealed tools and reclaim the dawn begins...",
+    "summary": "This is an action game created by Wanmpaku Pixels.",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435488,
+      536871200,
+      536872692,
+      536905521
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1739941251,
+    "url": "https://www.igdb.com/games/tinysss",
+    "videos": [
+      74456
+    ],
+    "websites": [
+      309733,
+      502616
+    ],
+    "checksum": "d378e348-b5fa-9a64-dc9a-20d57b539f1e",
+    "game_localizations": [
+      1292
+    ],
+    "game_type": 0
+  },
+  "region": {
+    "id": 3,
+    "name": "Japan",
+    "category": "locale",
+    "identifier": "ja-JP",
+    "created_at": 1654688003,
+    "updated_at": 1654688003,
+    "checksum": "30a70790-d254-52df-e438-99ee4529669d"
+  },
+  "created_at": 1662781167,
+  "updated_at": 1662945458,
+  "checksum": "f1bc4aad-57f5-927c-64d9-b1c7c609f097"
+}

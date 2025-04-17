@@ -30,6 +30,9 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     CollectionRelation::class to "$IGDB_RESOURCE_BASE_PATH/collection_relations",
     CollectionRelationType::class to "$IGDB_RESOURCE_BASE_PATH/collection_relation_types",
     CollectionType::class to "$IGDB_RESOURCE_BASE_PATH/collection_types",
+    Cover::class to "$IGDB_RESOURCE_BASE_PATH/covers",
+    GameLocalization::class to "$IGDB_RESOURCE_BASE_PATH/game_localizations",
+    Region::class to "$IGDB_RESOURCE_BASE_PATH/regions",
 )
 
 val objectMapper = jacksonObjectMapper()

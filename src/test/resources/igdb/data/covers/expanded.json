@@ -1,0 +1,64 @@
+{
+  "id": 65483,
+  "game": {
+    "id": 100547,
+    "artworks": [
+      4198,
+      4199,
+      4196,
+      4200,
+      4202,
+      4203,
+      4201,
+      4197
+    ],
+    "category": 0,
+    "cover": 65483,
+    "created_at": 1525439544,
+    "genres": [
+      12
+    ],
+    "involved_companies": [
+      64550,
+      64549
+    ],
+    "name": "Trinity 2",
+    "platforms": [
+      6
+    ],
+    "similar_games": [
+      25636,
+      57372,
+      111835,
+      113636,
+      113109,
+      54775,
+      96217,
+      106987,
+      19164,
+      115280
+    ],
+    "slug": "trinity-2",
+    "status": 6,
+    "tags": [
+      1,
+      268435468
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1525446252,
+    "url": "https://www.igdb.com/games/trinity-2",
+    "videos": [
+      19382
+    ],
+    "checksum": "1ce55cf9-2383-f2a0-1879-96d584a5afa9",
+    "game_status": 6,
+    "game_type": 0
+  },
+  "height": 800,
+  "image_id": "pkkd08qhfxt5cosp3hra",
+  "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkkd08qhfxt5cosp3hra.jpg",
+  "width": 1260,
+  "checksum": "e09f916b-04fe-8993-594e-b18435438a35"
+}
