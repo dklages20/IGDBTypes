@@ -2,6 +2,7 @@ package io.github.dklages20.igdb
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import io.github.dklages20.igdb.types.*
+import io.github.dklages20.igdb.types.Collection
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.assertDoesNotThrow
 import kotlin.reflect.KClass
@@ -23,6 +24,12 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     CharacterGender::class to "$IGDB_RESOURCE_BASE_PATH/character_genders",
     CharacterMugshot::class to "$IGDB_RESOURCE_BASE_PATH/character_mugshots",
     CharacterSpecie::class to "$IGDB_RESOURCE_BASE_PATH/character_species",
+    Collection::class to "$IGDB_RESOURCE_BASE_PATH/collections",
+    CollectionMembership::class to "$IGDB_RESOURCE_BASE_PATH/collection_memberships",
+    CollectionMembershipType::class to "$IGDB_RESOURCE_BASE_PATH/collection_membership_types",
+    CollectionRelation::class to "$IGDB_RESOURCE_BASE_PATH/collection_relations",
+    CollectionRelationType::class to "$IGDB_RESOURCE_BASE_PATH/collection_relation_types",
+    CollectionType::class to "$IGDB_RESOURCE_BASE_PATH/collection_types",
 )
 
 val objectMapper = jacksonObjectMapper()

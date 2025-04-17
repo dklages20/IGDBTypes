@@ -1,0 +1,161 @@
+{
+  "id": 1006,
+  "game": {
+    "id": 225512,
+    "aggregated_rating": 90,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      141767,
+      141768,
+      156682
+    ],
+    "artworks": [
+      92869
+    ],
+    "category": 0,
+    "cover": 398204,
+    "created_at": 1668068310,
+    "external_games": [
+      2622785,
+      2628899
+    ],
+    "first_release_date": 1723680000,
+    "game_engines": [
+      13
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      13,
+      15,
+      32
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      282165,
+      283245
+    ],
+    "keywords": [
+      250,
+      974,
+      12950
+    ],
+    "name": "Shapez 2",
+    "platforms": [
+      3,
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      629924,
+      629925,
+      629926
+    ],
+    "screenshots": [
+      1357053,
+      1357054,
+      1357055,
+      1357056
+    ],
+    "similar_games": [
+      37419,
+      26574,
+      51577,
+      34823,
+      55689,
+      65827,
+      55590,
+      31515,
+      79134,
+      17130
+    ],
+    "slug": "shapez-2",
+    "status": 4,
+    "summary": "Dive into a factory-building game where the focus is on just that — building huge factories! Construct sprawling multi-level factories and min-max your layouts without limits. Shapez 2 is tailor-made for enthusiasts who crave the thrill of optimizing production lines and perfecting automation.",
+    "tags": [
+      33,
+      38,
+      268435465,
+      268435469,
+      268435471,
+      268435488,
+      536871162,
+      536871886,
+      536883862
+    ],
+    "themes": [
+      33,
+      38
+    ],
+    "total_rating": 90,
+    "total_rating_count": 1,
+    "updated_at": 1744305896,
+    "url": "https://www.igdb.com/games/shapez-2",
+    "videos": [
+      99341,
+      145694
+    ],
+    "websites": [
+      654500,
+      602147,
+      323671,
+      323669,
+      323672,
+      323673,
+      323674,
+      664247
+    ],
+    "checksum": "686eb51a-61bd-547a-2427-16c6487b4e38",
+    "language_supports": [
+      225732,
+      225731,
+      225734,
+      225736,
+      225735,
+      225737,
+      812651,
+      812645,
+      812646,
+      812647,
+      812648,
+      812649,
+      812650
+    ],
+    "collections": [
+      8409
+    ],
+    "game_status": 4,
+    "game_type": 0
+  },
+  "collection": {
+    "id": 8409,
+    "created_at": 1668068591,
+    "games": [
+      134826,
+      225512
+    ],
+    "name": "shapez",
+    "slug": "shapez",
+    "updated_at": 1724372734,
+    "url": "https://www.igdb.com/collections/shapez",
+    "checksum": "7cfedaef-92cd-c2e8-d33a-d979e5ad0cb5",
+    "type": 1
+  },
+  "type": {
+    "id": 1,
+    "name": "Member",
+    "description": "Normal membership(i.e. is a part of) for a game to have with  a series",
+    "allowed_collection_type": 1,
+    "updated_at": 1693384727,
+    "created_at": 1691486869,
+    "checksum": "4a636c5f-5885-4ed9-b632-6356dbd48225"
+  },
+  "updated_at": 1696835502,
+  "created_at": 1696692556,
+  "checksum": "e090f827-0062-737f-5d23-914fae5e9f13"
+}
