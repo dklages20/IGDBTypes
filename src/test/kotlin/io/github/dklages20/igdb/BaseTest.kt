@@ -2,6 +2,7 @@ package io.github.dklages20.igdb
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import io.github.dklages20.igdb.types.*
+import io.github.dklages20.igdb.types.Collection
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.assertDoesNotThrow
 import kotlin.reflect.KClass
@@ -17,6 +18,21 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     AgeRatingContentDescriptionV2::class to "$IGDB_RESOURCE_BASE_PATH/age_rating_content_description_v2",
     AgeRatingOrganization::class to "$IGDB_RESOURCE_BASE_PATH/age_rating_organization",
     AgeRatingCategory::class to "$IGDB_RESOURCE_BASE_PATH/age_rating_category",
+    AlternativeName::class to "$IGDB_RESOURCE_BASE_PATH/alternative_name",
+    Artwork::class to "$IGDB_RESOURCE_BASE_PATH/artwork",
+    Character::class to "$IGDB_RESOURCE_BASE_PATH/characters",
+    CharacterGender::class to "$IGDB_RESOURCE_BASE_PATH/character_genders",
+    CharacterMugshot::class to "$IGDB_RESOURCE_BASE_PATH/character_mugshots",
+    CharacterSpecie::class to "$IGDB_RESOURCE_BASE_PATH/character_species",
+    Collection::class to "$IGDB_RESOURCE_BASE_PATH/collections",
+    CollectionMembership::class to "$IGDB_RESOURCE_BASE_PATH/collection_memberships",
+    CollectionMembershipType::class to "$IGDB_RESOURCE_BASE_PATH/collection_membership_types",
+    CollectionRelation::class to "$IGDB_RESOURCE_BASE_PATH/collection_relations",
+    CollectionRelationType::class to "$IGDB_RESOURCE_BASE_PATH/collection_relation_types",
+    CollectionType::class to "$IGDB_RESOURCE_BASE_PATH/collection_types",
+    Cover::class to "$IGDB_RESOURCE_BASE_PATH/covers",
+    GameLocalization::class to "$IGDB_RESOURCE_BASE_PATH/game_localizations",
+    Region::class to "$IGDB_RESOURCE_BASE_PATH/regions",
 )
 
 val objectMapper = jacksonObjectMapper()

@@ -1,0 +1,22 @@
+{
+  "id": 1056,
+  "created_at": 1411988955,
+  "games": [
+    7803,
+    7804,
+    7805,
+    7806,
+    33965,
+    36868,
+    70261,
+    111558,
+    306587,
+    307065
+  ],
+  "name": "Bubsy",
+  "slug": "bubsy",
+  "updated_at": 1720750235,
+  "url": "https://www.igdb.com/collections/bubsy",
+  "checksum": "facd1ff9-7dca-a79c-2f4c-e9e0b8b79834",
+  "type": 1
+}

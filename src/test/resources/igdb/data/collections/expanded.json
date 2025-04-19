@@ -1,0 +1,1121 @@
+{
+  "id": 1056,
+  "created_at": 1411988955,
+  "games": [
+    {
+      "id": 7803,
+      "alternative_names": [
+        153858
+      ],
+      "artworks": [
+        22258
+      ],
+      "bundles": [
+        33965,
+        306587
+      ],
+      "category": 0,
+      "cover": 132320,
+      "created_at": 1411960233,
+      "external_games": [
+        47229,
+        367694,
+        141458
+      ],
+      "first_release_date": 782179200,
+      "game_modes": [
+        1,
+        2,
+        3
+      ],
+      "genres": [
+        8,
+        31
+      ],
+      "involved_companies": [
+        228427,
+        273241
+      ],
+      "keywords": [
+        394,
+        968,
+        1059,
+        2071,
+        4162,
+        4297,
+        4329,
+        4484,
+        4990,
+        5525,
+        6145,
+        6198,
+        7593
+      ],
+      "name": "Bubsy II",
+      "platforms": [
+        19,
+        29
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "rating": 41.80916331915522,
+      "rating_count": 15,
+      "release_dates": [
+        609635,
+        609636,
+        609637
+      ],
+      "screenshots": [
+        62483,
+        62484
+      ],
+      "similar_games": [
+        24426,
+        20342,
+        28070,
+        19164,
+        96217,
+        22387,
+        106987,
+        19150,
+        29032,
+        55038
+      ],
+      "slug": "bubsy-ii--1",
+      "storyline": "The antagonist, Oinker P. Hamm, has created his \"Amazatorium\", which actually saps information away from history, and puts it on display, for his personal profit. It's up to the player to control Bubsy and stop this.",
+      "summary": "Defeat droves of dive-bombing penguins! Squash squadrons of flying pigs! Trash tons of turbo-powered sheep! It's all waiting for you in this wacky, whirlwind adventure through the Amazatorium.\n\nFIVE wild worlds.\nFOUR claw-biting levels of difficulty.\nTHREE mind-boggling mini-games.\nTWO hopelessly lost relatives.\nand ONE wise-cracking bobcat named Bubsy.",
+      "tags": [
+        1,
+        17,
+        27,
+        268435464,
+        268435487,
+        536871306,
+        536871880,
+        536871971,
+        536872983,
+        536875074,
+        536875209,
+        536875241,
+        536875396,
+        536875902,
+        536876437,
+        536877057,
+        536877110,
+        536878505
+      ],
+      "themes": [
+        1,
+        17,
+        27
+      ],
+      "total_rating": 41.80916331915522,
+      "total_rating_count": 15,
+      "updated_at": 1740994895,
+      "url": "https://www.igdb.com/games/bubsy-ii--1",
+      "videos": [
+        117134
+      ],
+      "websites": [
+        647852,
+        342819,
+        647853
+      ],
+      "checksum": "bba6585c-2435-c835-51fe-9e395335fea8",
+      "ports": [
+        307065
+      ],
+      "language_supports": [
+        329842,
+        329841
+      ],
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 7804,
+      "alternative_names": [
+        54950,
+        54952,
+        137638
+      ],
+      "bundles": [
+        33965,
+        306587
+      ],
+      "category": 0,
+      "cover": 130384,
+      "created_at": 1411960460,
+      "external_games": [
+        57355,
+        355260,
+        138682
+      ],
+      "first_release_date": 736214400,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        224997,
+        272092,
+        272093,
+        270590
+      ],
+      "keywords": [
+        394,
+        968,
+        1059,
+        2152,
+        2962,
+        4162,
+        4297,
+        4329,
+        4484,
+        5525,
+        5801,
+        6145,
+        7593,
+        12970,
+        26906
+      ],
+      "name": "Bubsy in Claws Encounters of the Furred Kind",
+      "platforms": [
+        19,
+        29
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "rating": 51.41819652215343,
+      "rating_count": 36,
+      "release_dates": [
+        477367,
+        477370,
+        477368,
+        477373,
+        477369,
+        477372,
+        477371,
+        477374
+      ],
+      "screenshots": [
+        105037,
+        105034,
+        105036,
+        105035,
+        105038
+      ],
+      "similar_games": [
+        7803,
+        19164,
+        843,
+        7805,
+        24426,
+        20342,
+        28070,
+        20329,
+        22387,
+        10148
+      ],
+      "slug": "bubsy-in-claws-encounters-of-the-furred-kind",
+      "storyline": "\"When you're a bankable star like me they don't skimp on the megs, no siree bobcat... 16 megs! 16 mondo megs of marvelous me pouncing outta' this cart - running, leaping, flying and falling all over your face!\"\n\n\"I'm Bubsy. I'm tryin' to save the Earth from Woolies. No, Woolies aren't what you get from wearing cheap underwear! Woolies are space-dweebs in flying saucers out to purr-loin the earth's supply of yarnballs. But enough about them. Let's talk about me!\"",
+      "summary": "Bubsy in Claws Encounters of the Furred Kind, known as Bubsy for short, is a platform video game released by Accolade in the early 1990s. It is the first game in the Bubsy series of video games. The game's name is a play on words in reference to Close Encounters of the Third Kind, with the game revolving around Bubsy defending the planet's supply of yarnballs from alien invaders. The game received a sequel, Bubsy 2, in 1994.",
+      "tags": [
+        17,
+        27,
+        268435464,
+        536871306,
+        536871880,
+        536871971,
+        536873064,
+        536873874,
+        536875074,
+        536875209,
+        536875241,
+        536875396,
+        536876437,
+        536876713,
+        536877057,
+        536878505,
+        536883882,
+        536897818
+      ],
+      "themes": [
+        17,
+        27
+      ],
+      "total_rating": 51.41819652215343,
+      "total_rating_count": 36,
+      "updated_at": 1742206972,
+      "url": "https://www.igdb.com/games/bubsy-in-claws-encounters-of-the-furred-kind",
+      "videos": [
+        116428
+      ],
+      "websites": [
+        645375,
+        342742
+      ],
+      "checksum": "34866652-669d-3372-d2ce-14cc512f4b60",
+      "ports": [
+        70261
+      ],
+      "language_supports": [
+        742258
+      ],
+      "game_localizations": [
+        4487
+      ],
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 7805,
+      "age_ratings": [
+        76494
+      ],
+      "category": 0,
+      "cover": 430472,
+      "created_at": 1411960632,
+      "external_games": [
+        1919234,
+        21703,
+        151699
+      ],
+      "first_release_date": 786240000,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        18221,
+        18219,
+        237685
+      ],
+      "keywords": [
+        394,
+        1538,
+        2184,
+        2666,
+        4162,
+        4270,
+        4297,
+        4329,
+        7593
+      ],
+      "name": "Bubsy in Fractured Furry Tales",
+      "platforms": [
+        62
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "release_dates": [
+        20528
+      ],
+      "screenshots": [
+        298769,
+        298767,
+        298768
+      ],
+      "similar_games": [
+        19164,
+        24426,
+        20342,
+        28070,
+        22387,
+        29032,
+        20329,
+        19150,
+        37001,
+        7804
+      ],
+      "slug": "bubsy-in-fractured-furry-tales",
+      "summary": "Bubsy in: Fractured Furry Tales was released December 15, 1994 for the Atari Jaguar. This title sets Bubsy traversing across various fairy tales. The game sees Bubsy taking on the Mad Hatter in Alice in Wonderland, the Giant in Jack and the Beanstalk, the Djinni in Ali Baba and the 40 Thieves, a sea monster in Twenty Thousand Leagues Under the Sea and Hansel and Gretel in Candyland. The game plays similarly to the prior two games in the series, but without any of the gadgets or band-aids of Bubsy 2.",
+      "tags": [
+        17,
+        27,
+        268435464,
+        536871306,
+        536872450,
+        536873096,
+        536873578,
+        536875074,
+        536875182,
+        536875209,
+        536875241,
+        536878505
+      ],
+      "themes": [
+        17,
+        27
+      ],
+      "updated_at": 1737076194,
+      "url": "https://www.igdb.com/games/bubsy-in-fractured-furry-tales",
+      "videos": [
+        26675,
+        104924
+      ],
+      "websites": [
+        393523
+      ],
+      "checksum": "28917865-db7e-c3a7-f7b1-c4645a0abe0c",
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 7806,
+      "age_ratings": [
+        18485
+      ],
+      "alternative_names": [
+        132443,
+        132444
+      ],
+      "bundles": [
+        306587
+      ],
+      "category": 0,
+      "cover": 164076,
+      "created_at": 1411960827,
+      "external_games": [
+        189018,
+        49845,
+        142839,
+        247217
+      ],
+      "first_release_date": 848966400,
+      "game_modes": [
+        1,
+        2
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        173715,
+        210984
+      ],
+      "keywords": [
+        250,
+        394,
+        947,
+        968,
+        1986,
+        2071,
+        2109,
+        4162,
+        4213,
+        4239,
+        4287,
+        4297,
+        4329,
+        4359,
+        4398,
+        4484,
+        4777,
+        4790,
+        4927,
+        5441,
+        10489
+      ],
+      "multiplayer_modes": [
+        19407
+      ],
+      "name": "Bubsy 3D",
+      "platforms": [
+        32,
+        7
+      ],
+      "player_perspectives": [
+        2
+      ],
+      "rating": 23.02712075908598,
+      "rating_count": 20,
+      "release_dates": [
+        575472,
+        206892,
+        206891
+      ],
+      "screenshots": [
+        803260,
+        803261,
+        803259,
+        803262,
+        803263,
+        803264,
+        803265
+      ],
+      "similar_games": [
+        1185,
+        843,
+        1186,
+        1528,
+        16326,
+        19164,
+        1189,
+        1289,
+        7803,
+        26758
+      ],
+      "slug": "bubsy-3d",
+      "summary": "Bubsy 3D is the fourth Bubsy game to date, and the only title in 3D; the game was released in 1996 for the PlayStation video game console. It is a sequel to the original in terms of the story and takes place on the Woolies' home planet, Rayon. Bubsy 3D has 16 main levels and two boss levels and the main character's goal is to defeat the two queens of Rayon, Poly and Esther. The player can collect rockets, as well as atoms, in order to eventually escape from planet Rayon. The graphics are very simplistic, even for their time, with a dense fog that covers entire levels throughout the game. Bubsy actively speaks throughout the game based on various actions performed by the player. Planned releases for the Sega 32X and Sega Saturn were cancelled.\nBubsy 3D was panned by both critics due to its confusing control schemes and camera angles. It was featured on Seanbaby's EGM Crapstravaganza: The 20 Worst Games of All Time list as well as in eighth place on GameTrailers' 2006 Top 10 Best and Worst Games list, where it was described as \"a terrible, terrible clone\".",
+      "tags": [
+        17,
+        27,
+        268435464,
+        536871162,
+        536871306,
+        536871859,
+        536871880,
+        536872898,
+        536872983,
+        536873021,
+        536875074,
+        536875125,
+        536875151,
+        536875199,
+        536875209,
+        536875241,
+        536875271,
+        536875310,
+        536875396,
+        536875689,
+        536875702,
+        536875839,
+        536876353,
+        536881401
+      ],
+      "themes": [
+        17,
+        27
+      ],
+      "total_rating": 23.02712075908598,
+      "total_rating_count": 20,
+      "updated_at": 1742836340,
+      "url": "https://www.igdb.com/games/bubsy-3d",
+      "videos": [
+        39524
+      ],
+      "websites": [
+        149730,
+        334411
+      ],
+      "checksum": "e5b7e7fb-9c47-645a-0d9e-0c12ce2986e0",
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 33965,
+      "category": 3,
+      "cover": 200219,
+      "created_at": 1495783897,
+      "external_games": [
+        109548,
+        6482
+      ],
+      "first_release_date": 1450310400,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        56747,
+        56748
+      ],
+      "keywords": [
+        960,
+        1158,
+        2493,
+        4134,
+        4297,
+        4550
+      ],
+      "name": "Bubsy Two-Fur",
+      "platforms": [
+        6
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "release_dates": [
+        120259
+      ],
+      "similar_games": [
+        55190,
+        20342,
+        56033,
+        28113,
+        55173,
+        76110,
+        15409,
+        16992,
+        59383,
+        19150
+      ],
+      "slug": "bubsy-two-fur",
+      "summary": "Many thought Bubsy was lost to a legacy of shame obscurity after his cat-astrophic venture into 3-D, but he’s been given a new shot at video-game stardom with his first release of this meowllenium: The Bubsy Two-Fur!\n\nThe Bubsy Two-Fur is the official digital download version of Bubsy’s first two games, and the first official Bubsy release since 1997! Relive the games that started the notorious career of Bubsy Bobcat in their original incarnations, and experience for yourself the cat-titude and purr-sonality of the first gaming mascot to have a digitized (and unforgettable) voice, one whose words still resound in the minds of all who played his games: “What could paw-sibly go wrong?”\n\nThe Bubsy Two-Fur features:\n\nFaithful emulation of the SNES version of both games packaged together in a single executable, letting you relive the games in their original glory smoothly on modern machines.\nSave anywhere, any time! 9 available save slots per game means you can make your own checkpoints any place or time you want. No more typing in passwords to restore your progress!\nTwo controllers can be configured for keyboard or game controllers for co-op and competitive local multiplayer in Bubsy II.\n‘Paws’ the emulation at any time to help you save or load the game at the exact frame you want.\nSteam Trading Cards featuring exquisite Bubsy comic book art.\nThe two games included in the Bubsy Two-Fur are:",
+      "tags": [
+        27,
+        268435464,
+        536871872,
+        536872070,
+        536873405,
+        536875046,
+        536875209,
+        536875462
+      ],
+      "themes": [
+        27
+      ],
+      "updated_at": 1742707493,
+      "url": "https://www.igdb.com/games/bubsy-two-fur",
+      "videos": [
+        118374
+      ],
+      "websites": [
+        60732,
+        60731
+      ],
+      "checksum": "baca864f-f15d-47a8-5677-647905e632da",
+      "collections": [
+        1056
+      ],
+      "game_type": 3
+    },
+    {
+      "id": 36868,
+      "age_ratings": [
+        28309,
+        58056
+      ],
+      "aggregated_rating": 33.33333333333334,
+      "aggregated_rating_count": 6,
+      "artworks": [
+        9029
+      ],
+      "category": 0,
+      "cover": 44759,
+      "created_at": 1496981705,
+      "external_games": [
+        184604,
+        398691,
+        79099,
+        2068513,
+        102177,
+        252001,
+        2174888,
+        2069141
+      ],
+      "first_release_date": 1509408000,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8,
+        31
+      ],
+      "hypes": 1,
+      "involved_companies": [
+        50308,
+        50306,
+        50307
+      ],
+      "keywords": [
+        2071,
+        4162,
+        4297,
+        4329,
+        4877
+      ],
+      "name": "Bubsy: The Woolies Strike Back",
+      "platforms": [
+        48,
+        6
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "rating": 26.04916111878632,
+      "rating_count": 6,
+      "release_dates": [
+        115817,
+        113881,
+        113604,
+        113605
+      ],
+      "screenshots": [
+        119049,
+        119052,
+        119053,
+        119050,
+        119051
+      ],
+      "similar_games": [
+        20342,
+        55190,
+        24426,
+        118313,
+        28070,
+        56033,
+        55173,
+        29032,
+        89597,
+        111130
+      ],
+      "slug": "bubsy-the-woolies-strike-back",
+      "summary": "\"Bubsy the Woolies Strike Back! is an all new Bubsy adventure featuring Bubsy in a bevy of exotic locations as he travels the planet looking for the beloved Golden Fleece.\n\nBubsy must use all of his classic moves and a few new ones to dodge and out bobcat a battalion of Woolies, not mention the gnarliest UFO bosses to ever grace a Bubsy adventure.\n\nThe wisecracking lynx also adds over a 100 new one liners to his lexicon to keep fans guessing what he’ll say next.\"",
+      "tags": [
+        1,
+        27,
+        268435464,
+        268435487,
+        536872983,
+        536875074,
+        536875209,
+        536875241,
+        536875789
+      ],
+      "themes": [
+        1,
+        27
+      ],
+      "total_rating": 29.69124722605983,
+      "total_rating_count": 12,
+      "updated_at": 1744813720,
+      "url": "https://www.igdb.com/games/bubsy-the-woolies-strike-back",
+      "videos": [
+        16464,
+        14219,
+        94383
+      ],
+      "websites": [
+        54984,
+        54985,
+        120467,
+        339044
+      ],
+      "checksum": "e6ecf0b7-616d-12be-fab9-3374da2c6c8f",
+      "language_supports": [
+        202138,
+        202139,
+        202140,
+        202141
+      ],
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 70261,
+      "age_ratings": [
+        77965
+      ],
+      "bundles": [
+        182328
+      ],
+      "category": 11,
+      "cover": 198602,
+      "created_at": 1506597375,
+      "external_games": [
+        142727
+      ],
+      "first_release_date": 820368000,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8,
+        31
+      ],
+      "involved_companies": [
+        157103,
+        157104
+      ],
+      "keywords": [
+        3,
+        394,
+        4297,
+        4329,
+        7593,
+        8285
+      ],
+      "name": "Super Bubsy",
+      "parent_game": 7804,
+      "platforms": [
+        6
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "release_dates": [
+        326235
+      ],
+      "screenshots": [
+        689636,
+        689637,
+        689638,
+        689639,
+        689640,
+        689641,
+        689642,
+        689643,
+        689644,
+        689645,
+        689646,
+        689647
+      ],
+      "similar_games": [
+        20342,
+        55190,
+        24426,
+        28070,
+        56033,
+        55173,
+        29032,
+        89597,
+        111130,
+        96217
+      ],
+      "slug": "super-bubsy",
+      "summary": "In this version of \"Bubsy In: Claws Encounter of the Furred Kind\" for Windows 95 the graphics have been redrawn for a higher resolution, new game elements and as well as the entire Bubsy television pilot has been added. In addition to the power-ups found in the original game, there are bouncing TVs that Bubsy can collect which allows the player to view more of the cartoon.",
+      "tags": [
+        1,
+        268435464,
+        268435487,
+        536870915,
+        536871306,
+        536875209,
+        536875241,
+        536878505,
+        536879197
+      ],
+      "themes": [
+        1
+      ],
+      "updated_at": 1739935802,
+      "url": "https://www.igdb.com/games/super-bubsy",
+      "videos": [
+        60008
+      ],
+      "websites": [
+        246785
+      ],
+      "checksum": "29f93ce8-4d83-1bf9-5909-d4b46d46d368",
+      "collections": [
+        1056
+      ],
+      "game_type": 11
+    },
+    {
+      "id": 111558,
+      "age_ratings": [
+        24971,
+        190599
+      ],
+      "aggregated_rating": 56.4,
+      "aggregated_rating_count": 5,
+      "artworks": [
+        12463
+      ],
+      "category": 0,
+      "cover": 169282,
+      "created_at": 1540966490,
+      "external_games": [
+        1912070,
+        1609735,
+        1719740,
+        1617746,
+        2172578,
+        1705290
+      ],
+      "first_release_date": 1557964800,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8,
+        31
+      ],
+      "involved_companies": [
+        80596,
+        80595,
+        132144
+      ],
+      "keywords": [
+        726
+      ],
+      "name": "Bubsy: Paws on Fire!",
+      "platforms": [
+        48,
+        6,
+        130
+      ],
+      "player_perspectives": [
+        2,
+        4
+      ],
+      "rating": 70,
+      "rating_count": 1,
+      "release_dates": [
+        171860,
+        171861,
+        171832
+      ],
+      "screenshots": [
+        288091,
+        288093,
+        288090,
+        288094,
+        288092,
+        288095
+      ],
+      "similar_games": [
+        87622,
+        55190,
+        29032,
+        20342,
+        111130,
+        103292,
+        24426,
+        28070,
+        96217,
+        89597
+      ],
+      "slug": "bubsy-paws-on-fire",
+      "summary": "From the developers of the BIT.TRIP series comes Bubsy: Paws on Fire!, the latest and greatest in bobcat-based gaming.\n\nBubsy is back in his greatest adventure yet! Featuring four playable characters with their own unique playstyles, new moves never before seen in a Bubsy title, and over 100 levels and variations, Paws on Fire is a game for Bubsy lovers everywhere!",
+      "tags": [
+        1,
+        268435464,
+        268435487,
+        536871638
+      ],
+      "themes": [
+        1
+      ],
+      "total_rating": 63.2,
+      "total_rating_count": 6,
+      "updated_at": 1744789465,
+      "url": "https://www.igdb.com/games/bubsy-paws-on-fire",
+      "videos": [
+        28416,
+        28415,
+        28414
+      ],
+      "websites": [
+        110068,
+        100983,
+        386619
+      ],
+      "checksum": "7f8986ac-7eab-75f5-4cf5-a51e1ab4444d",
+      "language_supports": [
+        85601,
+        85602,
+        85603,
+        85604,
+        85605,
+        85606,
+        85607,
+        85608,
+        85609,
+        85610,
+        85611,
+        85612,
+        85613,
+        499407
+      ],
+      "collections": [
+        1056
+      ],
+      "game_type": 0
+    },
+    {
+      "id": 306587,
+      "category": 3,
+      "cover": 446797,
+      "created_at": 1718974959,
+      "first_release_date": 1767139200,
+      "game_engines": [
+        1543
+      ],
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        271503,
+        271502
+      ],
+      "keywords": [
+        382,
+        535,
+        960,
+        1461,
+        4329,
+        17073,
+        29063
+      ],
+      "name": "Bubsy in: the Purrfect Collection",
+      "platforms": [
+        169,
+        6,
+        167,
+        130
+      ],
+      "player_perspectives": [
+        2,
+        4
+      ],
+      "release_dates": [
+        606343,
+        606344,
+        606345,
+        606346
+      ],
+      "screenshots": [
+        1345878,
+        1345879,
+        1345880,
+        1345881,
+        1345882,
+        1345883,
+        1345884,
+        1345885,
+        1345886,
+        1345887,
+        1345888,
+        1345889
+      ],
+      "similar_games": [
+        107200,
+        118313,
+        19164,
+        79134,
+        60,
+        61,
+        18623,
+        81183,
+        23345,
+        55029
+      ],
+      "slug": "bubsy-in-the-purrfect-collection",
+      "summary": "Is Bubsy a celebrated icon from the mascot wars of the early 90s or a platforming punchline? The team at Limited Run has built a new collection to find the answer. Bubsy in: The Purrfect Collection explores the franchise's troubled history and enduring popularity.\n\nBubsy in: The Purrfect Collection is a playable history that includes games, artifacts and interviews. All of the games have been carefully updated for modern PCs and consoles using Limited Run’s proprietary Carbon Engine. Along the way the team was able to smooth out some of the games’ rough edges.\n\nAt the helm of the project is Limited Run’s Audi Sorlie, a producer, author, Bubsy World Heavyweight Champion and arguably the world’s foremost expert on the furry franchise. Together with the team at Limited Run and Atari, he has created the ultimate retrospective celebration of Bubsy, the 3’6” tall 80 pound bobcat (with a pet armadillo named Arnold). What could possibly go wrong?",
+      "tags": [
+        22,
+        27,
+        268435464,
+        536871294,
+        536871447,
+        536871872,
+        536872373,
+        536875241,
+        536887985,
+        536899975
+      ],
+      "themes": [
+        22,
+        27
+      ],
+      "updated_at": 1742956662,
+      "url": "https://www.igdb.com/games/bubsy-in-the-purrfect-collection",
+      "videos": [
+        116930
+      ],
+      "checksum": "3f062a38-29de-b516-729d-a97aa25be6a4",
+      "collections": [
+        1056,
+        519
+      ],
+      "game_type": 3
+    },
+    {
+      "id": 307065,
+      "alternative_names": [
+        154045
+      ],
+      "category": 11,
+      "cover": 441940,
+      "created_at": 1719536208,
+      "external_games": [
+        1719739
+      ],
+      "first_release_date": 807235200,
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        8
+      ],
+      "involved_companies": [
+        273239
+      ],
+      "name": "Bubsy II",
+      "parent_game": 7803,
+      "platforms": [
+        33
+      ],
+      "player_perspectives": [
+        4
+      ],
+      "release_dates": [
+        609639
+      ],
+      "similar_games": [
+        120184,
+        29032,
+        54775,
+        24426,
+        96217,
+        113636,
+        28070,
+        106987,
+        81551,
+        19164
+      ],
+      "slug": "bubsy-ii",
+      "tags": [
+        1,
+        17,
+        268435464
+      ],
+      "themes": [
+        1,
+        17
+      ],
+      "updated_at": 1740994894,
+      "url": "https://www.igdb.com/games/bubsy-ii",
+      "checksum": "fc8cd6de-5449-4a38-9a66-d781df241ce0",
+      "language_supports": [
+        1030448
+      ],
+      "collections": [
+        1056
+      ],
+      "game_type": 11
+    }
+  ],
+  "name": "Bubsy",
+  "slug": "bubsy",
+  "updated_at": 1720750235,
+  "url": "https://www.igdb.com/collections/bubsy",
+  "checksum": "facd1ff9-7dca-a79c-2f4c-e9e0b8b79834",
+  "type": 1
+}

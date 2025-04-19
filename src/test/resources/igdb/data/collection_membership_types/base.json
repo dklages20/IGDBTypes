@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Member",
+  "description": "Normal membership(i.e. is a part of) for a game to have with  a series",
+  "allowed_collection_type": 1,
+  "updated_at": 1693384727,
+  "created_at": 1691486869,
+  "checksum": "4a636c5f-5885-4ed9-b632-6356dbd48225"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "Subseries",
+  "description": "A portion of a larger series that stands together",
+  "allowed_child_type": {
+    "id": 1,
+    "name": "Series",
+    "description": "Default collection type, used for all series for p0 of Serious Kiwi.",
+    "updated_at": 1691486869,
+    "created_at": 1691486869,
+    "checksum": "41c9125e-0333-d2da-4b3b-051e6f26189c"
+  },
+  "allowed_parent_type": {
+    "id": 1,
+    "name": "Series",
+    "description": "Default collection type, used for all series for p0 of Serious Kiwi.",
+    "updated_at": 1691486869,
+    "created_at": 1691486869,
+    "checksum": "41c9125e-0333-d2da-4b3b-051e6f26189c"
+  },
+  "updated_at": 1691486869,
+  "created_at": 1691486869,
+  "checksum": "33cb4a87-ee3b-8b4e-4c0f-fda1adcd50b8"
+}

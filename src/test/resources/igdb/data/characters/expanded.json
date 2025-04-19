@@ -1,0 +1,151 @@
+{
+  "id": 8303,
+  "created_at": 1462962430,
+  "games": [
+    {
+      "id": 4195,
+      "age_ratings": [
+        76036
+      ],
+      "aggregated_rating": 50.0,
+      "aggregated_rating_count": 2,
+      "category": 0,
+      "cover": 111436,
+      "created_at": 1390694022,
+      "external_games": [
+        73214,
+        1748744,
+        24534,
+        1189163,
+        154375
+      ],
+      "first_release_date": 1148428800,
+      "franchise": 246,
+      "franchises": [
+        246,
+        44
+      ],
+      "game_modes": [
+        1,
+        4
+      ],
+      "genres": [
+        25
+      ],
+      "involved_companies": [
+        10895,
+        10894,
+        10892,
+        10891,
+        10893
+      ],
+      "keywords": [
+        2387,
+        4142,
+        4345,
+        4398,
+        4805,
+        6117,
+        7558,
+        13109
+      ],
+      "name": "Teen Titans",
+      "platforms": [
+        11,
+        21,
+        8
+      ],
+      "player_perspectives": [
+        2
+      ],
+      "rating": 50.04972341351234,
+      "rating_count": 6,
+      "release_dates": [
+        568230,
+        568232,
+        568235,
+        568231,
+        568233,
+        568234
+      ],
+      "screenshots": [
+        1248246,
+        1248247
+      ],
+      "similar_games": [
+        26950,
+        4755,
+        19565,
+        54775,
+        113109,
+        103168,
+        76253,
+        65592,
+        72605,
+        115283
+      ],
+      "slug": "teen-titans",
+      "summary": "Teen Titans is an action beat 'em up video game released for the GameCube, PlayStation 2, and Xbox. A game under the same name was released for the Game Boy Advance in 2005. The game is themed after the 2003 Cartoon Network TV series Teen Titans, and most of the original voice actors reprise their respective roles.",
+      "tags": [
+        1,
+        268435481,
+        536873299,
+        536875054,
+        536875257,
+        536875310,
+        536875717,
+        536877029,
+        536878470,
+        536884021
+      ],
+      "themes": [
+        1
+      ],
+      "total_rating": 50.02486170675617,
+      "total_rating_count": 8,
+      "updated_at": 1739942928,
+      "url": "https://www.igdb.com/games/teen-titans",
+      "videos": [
+        90927
+      ],
+      "websites": [
+        254151,
+        346575
+      ],
+      "checksum": "3269198c-618f-dce0-7c8a-282a25a3f447",
+      "collections": [
+        3248
+      ],
+      "game_type": 0
+    }
+  ],
+  "gender": 0,
+  "mug_shot": {
+    "id": 3688,
+    "height": 1517,
+    "image_id": "fh019zzfsipweelyytxn",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/fh019zzfsipweelyytxn.jpg",
+    "width": 1074,
+    "checksum": "51b60de1-1df4-4b96-1a7a-dfbffe36d366"
+  },
+  "name": "Raven",
+  "slug": "raven",
+  "species": 5,
+  "updated_at": 1483471464,
+  "url": "https://www.igdb.com/characters/raven",
+  "checksum": "aff6df00-ecbf-e915-f2b3-bb7d759d9f7f",
+  "character_gender": {
+    "id": 0,
+    "name": "Male",
+    "created_at": 1738022400,
+    "updated_at": 1738022400,
+    "checksum": "550e8400-e29b-41d4-a716-446655440000"
+  },
+  "character_species": {
+    "id": 5,
+    "name": "Unknown",
+    "created_at": 1738022400,
+    "updated_at": 1738022400,
+    "checksum": "550e8400-e29b-41d4-a716-446655440005"
+  }
+}
