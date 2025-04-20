@@ -31,6 +31,8 @@ class Character(
     val updatedAt: Long?,
     val url: String?
 ): IGDBBaseObject(id) {
+    constructor(id: Int): this(id, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null)
+
     enum class Gender(val value: Int) {
         MALE(0),
         FEMALE(1),

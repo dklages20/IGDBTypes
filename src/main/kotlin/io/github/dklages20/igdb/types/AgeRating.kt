@@ -26,6 +26,8 @@ class AgeRating(
     val synopsis: String?,
 ) : IGDBBaseObject(id) {
 
+    constructor(id: Int): this(id, null, null, listOf(), null, null, null, listOf(), null, null)
+
     override fun toString(): String {
         return "AgeRating=(id=$id, checksum=$checksum, category=$category, contentDescriptions=$contentDescriptions, organization=$organization, rating=$rating, ratingCategory=$ratingCategory, ratingContentDescriptions=$ratingContentDescriptions, ratingCoverUrl=$ratingCoverUrl, synopsis=$synopsis)"
     }
