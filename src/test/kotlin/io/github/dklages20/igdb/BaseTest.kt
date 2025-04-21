@@ -39,6 +39,8 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     ExternalGame::class to "$IGDB_RESOURCE_BASE_PATH/external_games",
     ExternalGameSource::class to "$IGDB_RESOURCE_BASE_PATH/external_game_sources",
     Franchise::class to "$IGDB_RESOURCE_BASE_PATH/franchises",
+    GameEngine::class to "$IGDB_RESOURCE_BASE_PATH/game_engines",
+    GameEngineLogo::class to "$IGDB_RESOURCE_BASE_PATH/game_engine_logos",
     GameLocalization::class to "$IGDB_RESOURCE_BASE_PATH/game_localizations",
     GameReleaseFormat::class to "$IGDB_RESOURCE_BASE_PATH/game_release_formats",
     Platform::class to "$IGDB_RESOURCE_BASE_PATH/platforms",
