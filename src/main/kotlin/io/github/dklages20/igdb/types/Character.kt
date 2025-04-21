@@ -20,13 +20,11 @@ class Character(
     val description: String?,
     @JsonDeserialize(using = GameListDeserializer::class)
     val games: List<Game>?,
-    @Deprecated("This field has been deprecated by the IGDB API. Use 'characterGender' instead.")
     val gender: Gender?,
     @JsonDeserialize(using = CharacterMugshotDeserializer::class)
     val mugShot: CharacterMugshot?,
     val name: String?,
     val slug: String?,
-    @Deprecated("This field has been deprecated by the IGDB API. Use 'characterSpecies' instead.")
     val species: Species?,
     val updatedAt: Long?,
     val url: String?

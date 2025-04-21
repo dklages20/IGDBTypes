@@ -1,0 +1,80 @@
+{
+  "id": 4289,
+  "created_at": 1673279586,
+  "games": [
+    {
+      "id": 62563,
+      "alternative_names": [
+        120126,
+        120127
+      ],
+      "category": 0,
+      "cover": 36574,
+      "created_at": 1505059060,
+      "external_games": [
+        116375,
+        1900413
+      ],
+      "first_release_date": 1398729600,
+      "franchises": [
+        4289,
+        4047
+      ],
+      "keywords": [
+        78,
+        166,
+        4134,
+        4141,
+        4142
+      ],
+      "name": "Space Galaga",
+      "platforms": [
+        39
+      ],
+      "release_dates": [
+        436750,
+        436751
+      ],
+      "similar_games": [
+        17130,
+        80120,
+        40411,
+        38159,
+        61985,
+        36911,
+        10212,
+        58958,
+        49621,
+        51464
+      ],
+      "slug": "space-galaga",
+      "summary": "Namco-Bandai mixes classic Galaga action with the anime Space Dandy.",
+      "tags": [
+        18,
+        536870990,
+        536871078,
+        536875046,
+        536875053,
+        536875054
+      ],
+      "themes": [
+        18
+      ],
+      "updated_at": 1705972285,
+      "url": "https://www.igdb.com/games/space-galaga",
+      "websites": [
+        375324
+      ],
+      "checksum": "2af45211-66b7-62b0-1cc6-36f357d249eb",
+      "collections": [
+        1971
+      ],
+      "game_type": 0
+    }
+  ],
+  "name": "Space Dandy",
+  "slug": "space-dandy",
+  "updated_at": 1673279586,
+  "url": "https://www.igdb.com/franchises/space-dandy",
+  "checksum": "e0727076-87ba-9ac7-1687-fa308c5d965a"
+}
