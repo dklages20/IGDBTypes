@@ -1,0 +1,14 @@
+{
+  "id": 13302,
+  "category": 1,
+  "trusted": false,
+  "url": "https://warcryinteractive.com",
+  "checksum": "0edc7836-5613-5126-31e6-0466da91a881",
+  "type": {
+    "id": 1,
+    "type": "Official Website",
+    "created_at": 1742385157,
+    "updated_at": 1742385157,
+    "checksum": "68a07b1b-ff77-b4eb-1603-a179fab0ee5f"
+  }
+}

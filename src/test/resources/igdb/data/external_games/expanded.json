@@ -1,0 +1,73 @@
+{
+  "id": 2972312,
+  "category": 1,
+  "created_at": 1735419879,
+  "game": {
+    "id": 327405,
+    "category": 0,
+    "cover": 431196,
+    "created_at": 1735918562,
+    "external_games": [
+      2972312,
+      2975192
+    ],
+    "game_engines": [
+      13
+    ],
+    "game_modes": [
+      1
+    ],
+    "involved_companies": [
+      301620
+    ],
+    "name": "Megabonk",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      686672
+    ],
+    "screenshots": [
+      1445416,
+      1445417,
+      1445418,
+      1445419,
+      1445420,
+      1445415
+    ],
+    "slug": "megabonk",
+    "summary": "Smash your way through endless waves of enemies and grow absurdly powerful! Grab loot, level up, unlock characters and upgrade to create unique and crazy builds as you fend off hordes of creatures!",
+    "updated_at": 1745026901,
+    "url": "https://www.igdb.com/games/megabonk",
+    "videos": [
+      137251
+    ],
+    "websites": [
+      702724,
+      702721,
+      702722,
+      702723,
+      707909
+    ],
+    "checksum": "abba2d90-1bd9-4305-2791-f9149310abbe",
+    "language_supports": [
+      1147125
+    ],
+    "game_type": 0
+  },
+  "name": "Megabonk",
+  "uid": "3405340",
+  "updated_at": 1743053464,
+  "url": "https://store.steampowered.com/app/3405340",
+  "checksum": "8e12e538-8ee0-7820-f6b6-6cd951b2bb6b",
+  "external_game_source": {
+    "id": 1,
+    "name": "Steam",
+    "created_at": 1612529709,
+    "updated_at": 1695207341,
+    "checksum": "123e4567-e89b-12d3-a456-426614174000"
+  }
+}

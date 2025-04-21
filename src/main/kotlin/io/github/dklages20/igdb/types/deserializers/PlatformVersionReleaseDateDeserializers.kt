@@ -1,0 +1,6 @@
+package io.github.dklages20.igdb.types.deserializers
+
+import io.github.dklages20.igdb.types.PlatformVersionReleaseDate
+
+class PlatformVersionReleaseDateDeserializer: IGDBObjectDeserializer<PlatformVersionReleaseDate>(PlatformVersionReleaseDate::class)
+class PlatformVersionReleaseDateListDeserializer: IGDBObjectListDeserializer<PlatformVersionReleaseDate>(PlatformVersionReleaseDateDeserializer())

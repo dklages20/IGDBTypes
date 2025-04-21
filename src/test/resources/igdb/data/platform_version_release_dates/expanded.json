@@ -1,0 +1,26 @@
+{
+  "id": 308,
+  "category": 0,
+  "created_at": 1262304000,
+  "date": 667958400,
+  "human": "Mar 03, 1991",
+  "m": 3,
+  "region": 2,
+  "updated_at": 1262304000,
+  "y": 1991,
+  "checksum": "bde890fd-fdd2-3ff0-02f6-4264a4631a31",
+  "date_format": {
+    "id": 0,
+    "format": "YYYYMMDD",
+    "created_at": 1738022400,
+    "updated_at": 1738022400,
+    "checksum": "550e8400-e29b-41d4-a716-446655440000"
+  },
+  "release_region": {
+    "id": 2,
+    "region": "north_america",
+    "created_at": 1738108800,
+    "updated_at": 1738108800,
+    "checksum": "123e4567-e89b-12d3-a456-426614175001"
+  }
+}
