@@ -1,0 +1,6 @@
+package io.github.dklages20.igdb.types.deserializers
+
+import io.github.dklages20.igdb.types.LanguageSupportType
+
+class LanguageSupportTypeDeserializer: IGDBObjectDeserializer<LanguageSupportType>(LanguageSupportType::class)
+class LanguageSupportTypeListDeserializer: IGDBObjectListDeserializer<LanguageSupportType>(LanguageSupportTypeDeserializer())

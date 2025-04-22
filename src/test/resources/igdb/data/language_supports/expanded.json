@@ -1,0 +1,95 @@
+{
+  "id": 1001,
+  "game": {
+    "id": 113494,
+    "category": 0,
+    "created_at": 1546412285,
+    "external_games": [
+      1981631,
+      1692944
+    ],
+    "first_release_date": 1548892800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31,
+      32
+    ],
+    "name": "Caverns: Lost Sky",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      401104
+    ],
+    "screenshots": [
+      272485,
+      272480,
+      272479,
+      272481,
+      272482,
+      272483,
+      272484,
+      272478
+    ],
+    "similar_games": [
+      96217,
+      106987,
+      80916,
+      30245,
+      28309,
+      113360,
+      105269,
+      111130,
+      25311,
+      107318
+    ],
+    "slug": "caverns-lost-sky",
+    "status": 4,
+    "summary": "Caverns: Lost Sky is a single player action-adventure RPG set in a fully destructible, voxelized subterranean realm. Join Strato in the Tellurian Sector as he battles hordes of Fera in his quest to find the sky. Level up and increase your stats, or ascend the caverns searching for buried treasure.",
+    "tags": [
+      1,
+      268435468,
+      268435487,
+      268435488
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1740995996,
+    "url": "https://www.igdb.com/games/caverns-lost-sky",
+    "websites": [
+      96787,
+      96786,
+      437765
+    ],
+    "checksum": "eacbbe32-fcfa-03b8-3798-58e76ea03b46",
+    "language_supports": [
+      1000,
+      1001
+    ],
+    "game_status": 4,
+    "game_type": 0
+  },
+  "language": {
+    "id": 7,
+    "name": "English",
+    "native_name": "English (US)",
+    "locale": "en-US",
+    "created_at": 1664803639,
+    "updated_at": 1664803639,
+    "checksum": "e2f64b8d-425f-28a3-3552-217aa1a955eb"
+  },
+  "language_support_type": {
+    "id": 1,
+    "name": "Audio",
+    "created_at": 1664803639,
+    "updated_at": 1664803639,
+    "checksum": "17300b0f-8e60-5cf7-2b2d-6797e4ccb813"
+  },
+  "created_at": 1667238652,
+  "updated_at": 1667292163,
+  "checksum": "aa524ef6-ebe4-6ac9-b375-2b9c3849eba6"
+}
