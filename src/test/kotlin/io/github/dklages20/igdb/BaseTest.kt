@@ -47,6 +47,7 @@ val igdbClassToDataLocation: Map<KClass<*>, String> = mapOf(
     GameStatus::class to "$IGDB_RESOURCE_BASE_PATH/game_statuses",
     GameType::class to "$IGDB_RESOURCE_BASE_PATH/game_types",
     Genre::class to "$IGDB_RESOURCE_BASE_PATH/genres",
+    InvolvedCompany::class to "$IGDB_RESOURCE_BASE_PATH/involved_companies",
     Platform::class to "$IGDB_RESOURCE_BASE_PATH/platforms",
     PlatformFamily::class to "$IGDB_RESOURCE_BASE_PATH/platform_families",
     PlatformLogo::class to "$IGDB_RESOURCE_BASE_PATH/platform_logos",
