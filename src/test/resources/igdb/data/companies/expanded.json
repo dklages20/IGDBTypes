@@ -1,0 +1,123 @@
+{
+  "id": 61668,
+  "change_date_category": 7,
+  "country": 840,
+  "created_at": 1739687269,
+  "description": "CyrustheVirus Studios was established by Sheldon Slater, also known as CyrustheVirus001, in 2019. Serving as the sole developer, programmer, animator, artist, and composer for the project Cold Lazarus.",
+  "developed": [
+    {
+      "id": 289276,
+      "artworks": [
+        129871
+      ],
+      "category": 0,
+      "cover": 438952,
+      "created_at": 1709599816,
+      "external_games": [
+        2893449,
+        2882209
+      ],
+      "game_engines": [
+        13
+      ],
+      "game_modes": [
+        1
+      ],
+      "genres": [
+        5,
+        8,
+        31,
+        32
+      ],
+      "involved_companies": [
+        307986
+      ],
+      "name": "Cold Lazarus",
+      "player_perspectives": [
+        4
+      ],
+      "screenshots": [
+        1253989,
+        1253991,
+        1253993,
+        1253994,
+        1253996,
+        1253998,
+        1253999,
+        1254000,
+        1254001,
+        1254002,
+        1254003,
+        1254004,
+        1254005
+      ],
+      "similar_games": [
+        115374,
+        87622,
+        75948,
+        106992,
+        103292,
+        55282,
+        111130,
+        87975,
+        34218,
+        25222
+      ],
+      "slug": "cold-lazarus",
+      "storyline": "Lazarus’s epic unfolds on the Asteroid Islands of Nimbranumbra. As he awakens without memory of his identity or mission, he stumbles upon an adrift population of charismatic characters. They inhabit quaint mushroom villages, enchanting forests, and ancient ruins. However, a recent plague of otherworldly portals has begun tormenting the citizens of Nimbranumbra. Lazarus soon finds himself entangled in a web of politics and chaos as he endeavors to alleviate the suffering.",
+      "summary": "Embark on a thrilling odyssey with Lazarus amidst Nimbranumbra's asteroid islands. Encounter charismatic characters, explore ancient ruins, quaint villages, and brave the eerie 'Frameworks.' Battle foes, complete quests, and solve puzzles in this captivating hand-drawn fantasy epic!",
+      "tags": [
+        268435487
+      ],
+      "themes": [
+        1,
+        17
+      ],
+      "updated_at": 1739988134,
+      "url": "https://www.igdb.com/games/cold-lazarus",
+      "videos": [
+        140536
+      ],
+      "websites": [
+        619017,
+        712006,
+        712007,
+        712008,
+        712009,
+        712010
+      ],
+      "checksum": "36b5008c-79fa-2546-83f4-26116b525c78",
+      "language_supports": [
+        919345,
+        919346,
+        919347
+      ],
+      "game_type": 0
+    }
+  ],
+  "name": "CyrusTheVirus Studios",
+  "slug": "cyrusthevirus-studios",
+  "start_date": 1548979200,
+  "start_date_category": 0,
+  "updated_at": 1739987957,
+  "url": "https://www.igdb.com/companies/cyrusthevirus-studios",
+  "websites": [
+    {
+      "id": 13818,
+      "category": 1,
+      "trusted": false,
+      "url": "https://cyrusthevirusstudios.com/",
+      "checksum": "802f8f70-1459-ecf7-acb5-fd25de9328da",
+      "type": 1
+    }
+  ],
+  "checksum": "95dac7b6-f88b-6715-f88a-beac4da5d751",
+  "status": {
+    "id": 0,
+    "name": "active",
+    "created_at": 1738108800,
+    "updated_at": 1738108800,
+    "checksum": "123e4567-e89b-12d3-a456-426614174000"
+  },
+  "start_date_format": 0
+}

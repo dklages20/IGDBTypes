@@ -6,6 +6,7 @@ plugins {
     id("net.thauvin.erik.gradle.semver") version "1.0.4"
     `java-library`
     `maven-publish`
+    jacoco
 }
 
 repositories {
@@ -47,6 +48,16 @@ java {
 
 tasks.named<Test>("test") {
     useJUnitPlatform()
+    finalizedBy(tasks.jacocoTestReport)
+}
+
+tasks.named<JacocoReport>("jacocoTestReport") {
+    dependsOn(tasks.test)
+    reports {
+        xml.required = false
+        csv.required = false
+        html.outputLocation = layout.buildDirectory.dir("jacocoHtml")
+    }
 }
 
 tasks.named<ShadowJar>("shadowJar") {

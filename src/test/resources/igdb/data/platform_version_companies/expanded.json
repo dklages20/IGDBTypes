@@ -1,0 +1,19 @@
+{
+  "id": 286,
+  "company": {
+    "id": 11986,
+    "change_date_category": 7,
+    "created_at": 1485327550,
+    "name": "70",
+    "slug": "70",
+    "start_date_category": 7,
+    "updated_at": 1485327550,
+    "url": "https://www.igdb.com/companies/70",
+    "checksum": "77dc9f1a-ddb4-ce2e-66a9-32e0e79a9a8b",
+    "status": 0,
+    "start_date_format": 7
+  },
+  "developer": true,
+  "manufacturer": true,
+  "checksum": "e5035f31-713a-1036-2968-dd353b74db3b"
+}

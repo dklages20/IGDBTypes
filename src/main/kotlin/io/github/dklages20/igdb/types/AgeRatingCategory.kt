@@ -9,11 +9,13 @@ import io.github.dklages20.igdb.types.deserializers.AgeRatingOrganizationDeseria
 @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy::class)
 @JsonIgnoreProperties(ignoreUnknown = true)
 class AgeRatingCategory(
-    val id: Int,
+    id: Int,
     val rating: String?,
     @JsonDeserialize(using = AgeRatingOrganizationDeserializer::class)
     val organization: AgeRatingOrganization?,
     val createdAt: Long?,
     val updatedAt: Long?,
     val checksum: String?
-)
+): IGDBBaseObject(id) {
+    constructor(id: Int): this(id, null, null, null, null, null)
+}

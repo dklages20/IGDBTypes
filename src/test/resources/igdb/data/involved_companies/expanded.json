@@ -1,0 +1,156 @@
+{
+  "id": 95000,
+  "company": {
+    "id": 14486,
+    "change_date_category": 7,
+    "created_at": 1516634439,
+    "developed": [
+      113390,
+      81036,
+      125358,
+      35493,
+      131992,
+      26601,
+      30014,
+      35932,
+      35494,
+      32821,
+      169762,
+      154128,
+      195907,
+      261402,
+      283082,
+      318605
+    ],
+    "name": "Zoom Out Games",
+    "slug": "zoom-out-games",
+    "start_date_category": 7,
+    "updated_at": 1739906348,
+    "url": "https://www.igdb.com/companies/zoom-out-games",
+    "checksum": "af5fd7de-57af-d32f-b6ab-8a7606068c07",
+    "status": 0,
+    "start_date_format": 7
+  },
+  "created_at": 1585267200,
+  "developer": true,
+  "game": {
+    "id": 131992,
+    "age_ratings": [
+      27473,
+      27472
+    ],
+    "artworks": [
+      30074
+    ],
+    "category": 0,
+    "cover": 122047,
+    "created_at": 1585344430,
+    "external_games": [
+      1992367,
+      2435834,
+      2638366,
+      1859838
+    ],
+    "first_release_date": 1582156800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      15,
+      31,
+      32
+    ],
+    "involved_companies": [
+      95000,
+      94999
+    ],
+    "keywords": [
+      35,
+      101,
+      993,
+      1534,
+      3430
+    ],
+    "name": "12 Labours of Hercules X: Greed for Speed",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      191920
+    ],
+    "screenshots": [
+      376720,
+      376719,
+      376723,
+      376722,
+      376721
+    ],
+    "similar_games": [
+      24426,
+      28070,
+      96217,
+      19404,
+      106992,
+      25222,
+      79134,
+      106987,
+      25646,
+      65503
+    ],
+    "slug": "12-labours-of-hercules-x-greed-for-speed",
+    "summary": "Help Hercules find a way to catch a creature that moves faster than wind, and destroys everything in its path!",
+    "tags": [
+      17,
+      268435465,
+      268435471,
+      268435487,
+      268435488,
+      536870947,
+      536871013,
+      536871905,
+      536872446,
+      536874342
+    ],
+    "themes": [
+      17
+    ],
+    "updated_at": 1745313725,
+    "url": "https://www.igdb.com/games/12-labours-of-hercules-x-greed-for-speed",
+    "videos": [
+      34778
+    ],
+    "websites": [
+      162551,
+      162552,
+      448000
+    ],
+    "checksum": "be5db507-90fa-4eb8-a358-3ea4ab1a7e46",
+    "expanded_games": [
+      338901
+    ],
+    "language_supports": [
+      560969,
+      560970,
+      560971,
+      560972,
+      560973,
+      560974,
+      560975,
+      560976,
+      560977
+    ],
+    "collections": [
+      5463
+    ],
+    "game_type": 0
+  },
+  "porting": false,
+  "publisher": false,
+  "supporting": false,
+  "updated_at": 1585440000,
+  "checksum": "43e91be1-592f-c3be-3e1d-447b3f17584c"
+}

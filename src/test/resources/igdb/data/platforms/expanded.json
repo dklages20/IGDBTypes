@@ -1,0 +1,63 @@
+{
+  "id": 306,
+  "category": 1,
+  "created_at": 1590781904,
+  "generation": 4,
+  "name": "Satellaview",
+  "platform_logo": {
+    "id": 595,
+    "alpha_channel": true,
+    "animated": false,
+    "height": 217,
+    "image_id": "plgj",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/plgj.jpg",
+    "width": 1280,
+    "checksum": "084c766d-7879-70b9-a713-e59b942f7692"
+  },
+  "platform_family": {
+    "id": 5,
+    "name": "Nintendo",
+    "slug": "nintendo",
+    "checksum": "398e5c87-f7db-6265-6da6-433441385208"
+  },
+  "slug": "satellaview",
+  "updated_at": 1718027289,
+  "url": "https://www.igdb.com/platforms/satellaview",
+  "versions": [
+    {
+      "id": 423,
+      "name": "Initial version",
+      "platform_logo": 595,
+      "slug": "initial-version",
+      "summary": "The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995. Containing 1 megabit of ROM space and an additional 512 kB of RAM, Satellaview allowed players to download games, magazines, and other media through satellite broadcasts provided by Japanese company St.GIGA. Its heavy third-party support included Squaresoft, Taito, Konami, Capcom, and Seta. To use Satellaview, players purchased a special broadcast satellite (BS) tuner directly from St.GIGA or rented one for a six-month fee, and paid monthly subscription fees to both St.GIGA and Nintendo. It attaches to the expansion port on the bottom of the Super Famicom.",
+      "url": "https://www.igdb.com/platforms/satellaview/version/initial-version",
+      "checksum": "27cbe403-8bee-8bc5-71eb-00e3dd11c333"
+    }
+  ],
+  "websites": [
+    {
+      "id": 205,
+      "category": 1,
+      "trusted": false,
+      "url": "https://en.wikipedia.org/wiki/Satellaview",
+      "checksum": "8578f2ff-99c8-828c-ed28-dc2cc1dd033c",
+      "type": 1
+    },
+    {
+      "id": 289,
+      "category": 1,
+      "trusted": false,
+      "url": "https://web.archive.org/web/19970605012105/http://www.nintendo.co.jp/n03/index.html",
+      "checksum": "5595e40b-bfbf-8202-ba79-58ab3bd1c55b",
+      "type": 1
+    }
+  ],
+  "checksum": "b9e89bb4-6962-0808-a4c0-9060c8ee9ef7",
+  "platform_type": {
+    "id": 1,
+    "name": "Console",
+    "created_at": 1738540800,
+    "updated_at": 1738540800,
+    "checksum": "123e4567-e89b-12d3-a456-426614176001"
+  }
+}

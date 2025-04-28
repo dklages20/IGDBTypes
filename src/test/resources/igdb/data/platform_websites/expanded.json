@@ -1,0 +1,14 @@
+{
+  "id": 172,
+  "category": 1,
+  "trusted": false,
+  "url": "https://web.archive.org/web/20020802082913/http://www.nuon-tech.com/",
+  "checksum": "c2af5c42-dde5-6638-0e00-0408121af316",
+  "type": {
+    "id": 1,
+    "type": "Official Website",
+    "created_at": 1742385157,
+    "updated_at": 1742385157,
+    "checksum": "68a07b1b-ff77-b4eb-1603-a179fab0ee5f"
+  }
+}

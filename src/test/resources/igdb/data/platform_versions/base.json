@@ -1,0 +1,12 @@
+{
+  "id": 663,
+  "name": "Opera GX",
+  "platform_logo": 825,
+  "platform_version_release_dates": [
+    760
+  ],
+  "slug": "opera-gx",
+  "summary": "Opera GX is a gaming-oriented variant of Opera. The browser was announced and released in early access for Windows on 11 June 2019, during E3 2019. The macOS version was released in December of the same year.\n\nOpera GX adds features geared toward gamers on top of the regular Opera browser. The browser allows users to limit network, CPU, and memory usage to preserve system resources, with GX Cleaner, a tool that allows users to clear cache, cookies, and other unwanted files. It also adds integrations with other apps such as Twitch, Discord, Twitter, and Instagram. The browser also has a built-in page called the GX Corner, which collates gaming-related releases, deals, and news articles.",
+  "url": "https://www.igdb.com/platforms/browser/version/opera-gx",
+  "checksum": "9eba1d88-5e63-a5d0-b595-3e14c6423b34"
+}
